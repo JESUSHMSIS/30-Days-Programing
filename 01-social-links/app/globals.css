@@ -1,0 +1,30 @@
+html {
+  background-color: #141414;
+  color: #f1f1f1;
+}
+
+.cardBackground {
+  background-color: #1f1f1f;
+}
+
+.linkBackground {
+  background-color: #333333;
+}
+.neon {
+  color: #c4f82a;
+}
+
+.container {
+  height: 97vh;
+  width: 98vw;
+}
+
+.linkContact {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.linkContact:hover {
+  color: #c4f82a;
+}
